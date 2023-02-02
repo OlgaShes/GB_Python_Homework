@@ -24,4 +24,16 @@ if x == int(x) and y == int(y):
 else:
     print('Нет решения в целых числах')
 
-
+# x = 0
+# y = 0
+# for i in range(s):
+#     for j in range(s):
+#         if i + j == s and i * j == p:
+#             x = i
+#             y = j
+#             break
+#     if x != 0 and y!= 0:
+#         print(f'Загаданные числа: {x} и {y}')
+#         break
+# else: 
+#     print('Решения нет, неверно заданны сумма и произведение')
